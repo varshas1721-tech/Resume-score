@@ -28,4 +28,4 @@ This web app helps job seekers match their resumes to job descriptions using key
 1. Clone the repository:
    ```bash
    git clone https://github.com/your-username/resume-matcher.git
-   cd resume-matcher
+   cd resume-matcher"# Resume-score" 
